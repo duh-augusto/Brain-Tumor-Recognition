@@ -16,17 +16,13 @@ Utilizando de machine learning, foi montado um aplicativo que identifica se há 
 - Prof. Will Ricardo dos Santos Machado
 
 # Documentação
-
-<ol>
 <li><a href="Documentação de instalação.md"> Documentação de Instalação</a></li>
 
-# Código
 
-<ol>
+# Código
 <li><a href="BrainTumorCodes_PredImages.rar"> Código Fonte</a></li>
 <li><a href="Test and Train.rar"> Imagens para treino e teste</a></li>
 
-# Apresentação
 
-<ol>
+# Apresentação
 <li><a href="https://www.youtube.com/watch?v=V_ykbtS2EhU"> Apresentação da solução</a></li>
