@@ -1,6 +1,7 @@
 # Reconhecimento de presença de Tumor Cerebral
 
 Utilizando de machine learning, foi montado um aplicativo que identifica se há ou não a presença de um tumor cerebral
+
 Linguagem utilizada: Python
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
