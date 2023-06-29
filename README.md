@@ -26,4 +26,4 @@ Utilizando de machine learning, foi montado um aplicativo que identifica se há 
 
 # Apresentação
 
-<li><a href="(https://www.youtube.com/watch?v=V_ykbtS2EhU)"> Apresentação da solução</a></li>
+<li><a href="https://www.youtube.com/watch?v=V_ykbtS2EhU"> Apresentação da solução</a></li>
