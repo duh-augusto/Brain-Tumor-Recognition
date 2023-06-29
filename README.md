@@ -19,15 +19,14 @@ Utilizando de machine learning, foi montado um aplicativo que identifica se há 
 
 <ol>
 <li><a href="Documentação de instalação.md"> Documentação de Instalação</a></li>
-<ol>
 
 # Código
 
 <ol>
 <li><a href="BrainTumorCodes_PredImages.rar"> Código Fonte</a></li>
 <li><a href="Test and Train.rar"> Imagens para treino e teste</a></li>
-<ol>
 
 # Apresentação
 
+<ol>
 <li><a href="https://www.youtube.com/watch?v=V_ykbtS2EhU"> Apresentação da solução</a></li>
