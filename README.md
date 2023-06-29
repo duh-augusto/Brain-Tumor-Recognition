@@ -18,7 +18,7 @@ Utilizando de machine learning, foi montado um aplicativo que identifica se há 
 # Documentação
 
 <ol>
-<li><a href="docs/1-Documentação de instalação.md"> Documentação de Instalação</a></li>
+<li><a href="1-Documentação de instalação.md"> Documentação de Instalação</a></li>
 
 # Código
 
@@ -26,4 +26,4 @@ Utilizando de machine learning, foi montado um aplicativo que identifica se há 
 
 # Apresentação
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+<li><a href="(https://www.youtube.com/watch?v=V_ykbtS2EhU)"> Apresentação da solução</a></li>
