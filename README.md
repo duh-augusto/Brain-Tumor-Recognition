@@ -22,7 +22,8 @@ Utilizando de machine learning, foi montado um aplicativo que identifica se há 
 
 # Código
 
-<li><a href="src/README.md"> Código Fonte</a></li>
+<li><a href="BrainTumorCodes_PredImages.rar"> Código Fonte</a></li>
+<li><a href="Test and Train.rar"> Imagens para treino e teste</a></li>
 
 # Apresentação
 
